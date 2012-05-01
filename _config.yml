@@ -5,3 +5,5 @@ navigation:
   url: /history.html
 - text: Uruguay
   url: /uruguay.html
+- text: Technology
+  url: /technology.html
