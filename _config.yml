@@ -3,9 +3,7 @@ navigation:
   url: /index.html
 - text: Uruguay
   url: /uruguay.html
-- text: Technology
+- text: XO Laptop
   url: /technology.html
-- text: Implementation
+- text: Ceibal
   url: /implementation.html
-- text: Further Reading
-  url: /resources.html
