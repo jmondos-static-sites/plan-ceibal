@@ -1,9 +1,9 @@
 navigation:
 - text: Home
-  url: /index.html
+  url: index.html
 - text: Uruguay
-  url: /uruguay.html
+  url: uruguay.html
 - text: XO Laptop
-  url: /technology.html
+  url: technology.html
 - text: Ceibal
-  url: /implementation.html
+  url: implementation.html
