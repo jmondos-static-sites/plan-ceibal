@@ -1,13 +1,11 @@
 navigation:
 - text: Home
   url: /index.html
-- text: History
-  url: /history.html
 - text: Uruguay
   url: /uruguay.html
 - text: Technology
   url: /technology.html
-- text: Results
-  url: /results.html
+- text: Implementation
+  url: /implementation.html
 - text: Further Reading
   url: /resources.html
