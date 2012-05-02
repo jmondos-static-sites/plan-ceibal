@@ -7,3 +7,7 @@ navigation:
   url: /uruguay.html
 - text: Technology
   url: /technology.html
+- text: Results
+  url: /results.html
+- text: Further Reading
+  url: /resources.html
