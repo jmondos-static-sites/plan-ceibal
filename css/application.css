@@ -1,0 +1,38 @@
+.hero-unit {
+  position: relative;
+}
+/*#ceibal_logo {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}*/
+#ceibal_logo {
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+p {
+  font-size: 1.1em;
+  line-height: 1.4em;
+  margin-bottom: 12px;
+  text-align: justify;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 20px 0 10px;
+}
+img.right {
+  float: right;
+  padding: 0 15px 5px;
+}
+.spec h3 {
+  display: inline-block;
+  margin: 10px 0;
+}
+#screenshots a {
+  margin: 5px 10px 5px 0;
+}
